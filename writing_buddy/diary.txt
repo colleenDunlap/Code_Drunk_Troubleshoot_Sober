@@ -1,7 +1,8 @@
 Date: 2/16/2019: 
 Contributor: colleenDunlap
 Description: I'm incredibly excited because this is the first project-based commit of the code_drunk_troubleshoot_sober repository.  I'm currently in an Algorithms class where we are creating a project that reads in PDFs and outputs either 1) repetitive words/phrases to guide language or content learners or 2) suggests alternatives to repetitive language to make your writing more engaging to readers.  So far we've already created a means of reading the pdf's.  Now I am going to try to store all the words in the pdf in a HashTable that maps the word to its occurence within the pdf.
-Notes:
-Drink Frequency(#drinks/#hours):
+Notes: I am NOT a python programmer but I'm determined to learn the syntax and the advantages of the language.
+	After 10 minutes, able to convert unicode string to python string by trying various Stack Overflow Results.  
+Drink Frequency(#drinks/#hours): 7/4=> 1.75
 How Drunk I Feel (scale 1-10, 1 being sober, 10 being a Hangover Movie remake):
-How Productive I was:
+How Productive I was: I was able to complete a subtask of our group project in ten minutes.  Would probably've taken as much time sober, but may've gotten more stressed if sober.  
