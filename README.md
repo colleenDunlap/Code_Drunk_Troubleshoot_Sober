@@ -10,4 +10,5 @@ This Repo will include multiple folders each corresponding to a different projec
 All contributions are welcome!  I trust that you are honest in drinking before you push (whatever amount it takes to make you feel as if you're "coding drunk (or tipsy)"  Just make sure you record your contribution in the "diaries" folder of the project that you are creating/editing.
 
 Contributors:
+
 colleenDunlap
